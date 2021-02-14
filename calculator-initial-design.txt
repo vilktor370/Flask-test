@@ -1,0 +1,13 @@
+class calculator
+  def add:
+
+  def minus:
+
+  def multiply:
+
+  def divide:
+
+defmain(argc, argv)n{
+  //get command from python server
+}
+
